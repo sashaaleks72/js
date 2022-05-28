@@ -1,0 +1,21 @@
+.fail {
+    display: inline-block;
+    border: 1px solid red;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.success {
+    display: inline-block;
+    border: 1px solid green;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    padding: 5px;
+    margin-left: 5px;
+}
